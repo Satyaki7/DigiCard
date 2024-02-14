@@ -139,3 +139,25 @@ footer a {
     text-decoration: none;
     font-size: 10px;
 }
+
+@media only screen and (max-width: 600px) {
+    .mainop {
+        width: 50vh;
+    }
+    .headerdiv {
+        width: auto;
+    }
+    .maindiv {
+        height: 30.90vh;
+        width: auto;
+    }
+    .mainbut {
+        width: 30vh;
+    }
+    .social {
+        width: auto;
+    }
+    .footer {
+        width: auto;
+    }
+}
